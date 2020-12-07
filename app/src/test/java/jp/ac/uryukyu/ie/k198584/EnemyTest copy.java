@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.ie.tnal;
+package jp.ac.uryukyu.ie.k198584;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

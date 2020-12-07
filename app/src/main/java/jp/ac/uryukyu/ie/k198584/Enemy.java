@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.ie.tnal;
+package jp.ac.uryukyu.ie.k198584;
 
 /**
  * 敵クラス。
@@ -6,7 +6,7 @@ package jp.ac.uryukyu.ie.tnal;
  *  int hitPoint; //敵のHP
  *  int attack; //敵の攻撃力
  *  boolean dead; //敵の生死状態。true=死亡。
- * Created by tnal on 2016/11/13.
+ * Created by k198584 on 2016/11/13.
  */
 public class Enemy {
     public String name;
